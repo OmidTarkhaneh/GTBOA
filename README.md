@@ -4,4 +4,4 @@ Optimization Algorithm as well as the extended version of the conference paper N
 
 Running the Code:
 `To run the source code it simply just run GTBO.m file and change the value
-of F to your desired function number.
+of F to your desired function number.`
